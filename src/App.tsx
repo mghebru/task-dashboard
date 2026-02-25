@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <div className="">
+    <div className="shadow-2xl rounded-xl p-5 m-4">
       <Dashboard />
     </div>
     </>

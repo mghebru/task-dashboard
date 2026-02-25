@@ -3,6 +3,7 @@ import type{ Task, TaskFilterOptions } from "../types";
 export const filterTasks = (
   tasks: Task[],
   filters: TaskFilterOptions
+  
 ): Task[] => {
   return tasks
     .filter(task =>
