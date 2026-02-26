@@ -12,22 +12,29 @@ src/
 ├── components/
 
 │   ├── TaskFilter/
+
 |   |   ├──TaskFilter.tsx
 
 │   └── TaskForm/
+
 |   |   ├──TaskForm.tsx
 
 │   ├── TaskList/ 
+
 |   |  ├── TaskList.tsx
+
 |   |  └──  TaskItem.tsx
 
 │   └── DashBoard/
+
 |       ├──Dashboard.tsx
 
 ├── types/
+
 │   └── Task.ts
 
 ├── App.tsx
+
 └── main.tsx
 
 
