@@ -3,32 +3,6 @@
 A modern Task Management Dashboard built with React + TypeScript + Vite.
 This application allows users to create, update, filter, and manage tasks with an intuitive and responsive UI.
 
-**📂 Project Structure**
-
-
-src/
-│
-├── components/
-│   │
-│   ├── TaskFilter/
-│   │   └── TaskFilter.tsx
-│   │
-│   ├── TaskForm/
-│   │   └── TaskForm.tsx
-│   │
-│   ├── TaskList/
-│   │   ├── TaskList.tsx
-│   │   └── TaskItem.tsx
-│   │
-│   └── DashBoard/
-│       └── Dashboard.tsx
-│
-├── types/
-│   └── Task.ts
-│
-└── App.tsx
-
-
 
 **📦 Installation**
 
